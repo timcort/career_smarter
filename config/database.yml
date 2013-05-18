@@ -1,0 +1,17 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: career_smarter_development
+  pool: 5
+  username: timcort
+  password:
+
+test:
+  adapter: postgresql
+  encoding: unicode
+  database: career_smarter_test
+  pool: 5
+  username: timcort
+  password:
+
+
