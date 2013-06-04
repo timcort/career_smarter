@@ -10,4 +10,7 @@ class StaticPagesController < ApplicationController
 
   def test
   end
+
+  def almost_finished
+  end
 end
