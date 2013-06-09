@@ -9,6 +9,8 @@ CareerSmarter::Application.routes.draw do
 
   get "static_pages/almost_finished"
 
+  get "static_pages/thankyou"
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 

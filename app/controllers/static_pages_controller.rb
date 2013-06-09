@@ -13,4 +13,7 @@ class StaticPagesController < ApplicationController
 
   def almost_finished
   end
+
+  def thankyou
+  end
 end
